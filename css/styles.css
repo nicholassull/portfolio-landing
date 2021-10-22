@@ -7,7 +7,6 @@ body{
 }
 
 #about {
-  border: lightslategray solid 2px;
   padding: 5px;
 }
 
@@ -24,4 +23,5 @@ h2{
 #hobby-container{
   clear: both;
   float: right;
+  border: lightslategray solid 2px;
 }
