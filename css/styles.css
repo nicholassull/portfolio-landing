@@ -16,9 +16,9 @@ body{
 }
 
 .sect-head {
-  background-color: rgb(194, 212, 245);
-  padding: 1px;
-  margin: 5px;
+  background-color: rgb(170, 192, 233);
+  padding: 2px;
+  margin: 5px 0px 10px 0px;
   border-radius: 10px;
 }
 
