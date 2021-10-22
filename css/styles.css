@@ -1,0 +1,14 @@
+#body-container {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+#self-photo {
+  float: left;
+  max-width: 250px;
+  margin-right: 15px;
+}
+
+#hobby-container{
+  clear: both;
+}
