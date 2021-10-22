@@ -43,6 +43,7 @@ span {
 
 .card-body {
   border: lightslategray double 4px;
+  min-height: 375px;
 }
 
 #project-container h4 {
