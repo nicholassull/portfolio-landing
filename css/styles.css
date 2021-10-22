@@ -15,6 +15,13 @@ body{
   padding: 5px;
 }
 
+.sect-head {
+  background-color: rgb(194, 212, 245);
+  padding: 1px;
+  margin: 5px;
+  border-radius: 10px;
+}
+
 h2{
   text-align: center;
   clear: both;
