@@ -6,6 +6,16 @@ body{
   margin: 0 auto;
 }
 
+#about {
+  border: lightslategray solid 2px;
+  padding: 5px;
+  min-height: 390px;
+}
+
+h2{
+  text-align: center;
+}
+
 #self-photo {
   float: left;
   max-width: 250px;
