@@ -21,7 +21,12 @@ h2{
 }
 
 #hobby-container{
-  clear: both;
   float: right;
   border: lightslategray solid 2px;
+  padding: 2px 10px 2px 2px;
+  margin: 5px;
+}
+
+#hobby-container h3 {
+  text-align: center;
 }
