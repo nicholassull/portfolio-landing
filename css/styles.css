@@ -6,6 +6,10 @@ body{
   margin: 0 auto;
 }
 
+.jumbotron {
+  margin-top: 10px;
+}
+
 #about {
   padding: 5px;
 }
