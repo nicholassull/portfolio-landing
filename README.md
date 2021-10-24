@@ -12,7 +12,7 @@
 
 ## Description
 
-_ _
+_This simple portfolio landing page is meant to demonstrate Nick Sullivan's understanding of HTML, CSS, and Git. It features custom styling, and the use of p, h, ul, ol, li, em, strong, a, img, div, and span HTML tags. Additionally, a small amount of bootstrap was added for fun._
 
 ## Setup Instructions
 
