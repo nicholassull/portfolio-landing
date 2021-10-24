@@ -26,4 +26,4 @@ _ _
 
 _Feel free to contact me with any questions at nicholassull@gmail.com_
 
-Copyright (c) _ _ _ _
+Copyright (c) _10/23/2021_ _by Nick Sullivan_
