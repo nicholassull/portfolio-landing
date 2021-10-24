@@ -14,7 +14,7 @@
 
 _ _
 
-## Setup/Installation Requirements
+## Setup Instructions
 
 * _ _
 
