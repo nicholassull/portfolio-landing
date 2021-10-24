@@ -2,7 +2,7 @@
 
 #### By _**Nick Sullivan**_
 
-#### _ _
+#### _A portfolio to showcase Nick Sullivan's coding journey._
 
 ## Technologies Used
 
@@ -20,7 +20,7 @@ _ _
 
 ## Known Bugs
 
-* _ _
+* _No known bugs at this time._
 
 ## License
 
