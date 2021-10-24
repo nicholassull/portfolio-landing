@@ -16,7 +16,7 @@ _This simple portfolio landing page is meant to demonstrate Nick Sullivan's unde
 
 ## Setup Instructions
 
-* _ _
+* _To view my landing page, [click here](https://nicholassull.github.io/portfolio-landing/) or navigate to https://nicholassull.github.io/portfolio-landing/_
 
 ## Known Bugs
 
