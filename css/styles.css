@@ -57,8 +57,21 @@ span {
   text-align: center;
 }
 
+.card-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 1em;
+}
+
+.card {
+  border: lightgrey 1px solid;
+}
+
+.card-header {
+  text-align: center;
+}
+
 .card-body {
-  border: lightslategray double 4px;
   min-height: 375px;
 }
 
