@@ -60,12 +60,16 @@ span {
 .card-container {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  gap: 1em;
+  gap: 2em;
 }
 
 .card {
   border: lightgrey 1px solid;
 }
+
+/* .card:hover {
+  box-shadow: 8px 8px 4px 1px rgb(132, 151, 185);
+} */
 
 .card-header {
   text-align: center;
@@ -77,4 +81,29 @@ span {
 
 #project-container h4 {
   font-size: 1.2em;
+}
+
+/*Styling for shadow animation*/
+.shadow-box {
+  position: relative;
+  position: relative; /* For positioning the pseudo-element */
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
+}
+
+.shadow-box::before {
+  content: ' ';
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+
+  box-shadow: 0 10px 50px 0 rgba(0, 0, 0, 0.5);
+
+  opacity: 0;
+  transition: opacity 500ms;
+}
+
+.shadow-box:hover::before {
+  opacity: 1;
 }
