@@ -67,10 +67,6 @@ span {
   border: lightgrey 1px solid;
 }
 
-/* .card:hover {
-  box-shadow: 8px 8px 4px 1px rgb(132, 151, 185);
-} */
-
 .card-header {
   text-align: center;
 }
@@ -84,6 +80,7 @@ span {
 }
 
 /*Styling for shadow animation*/
+
 .shadow-box {
   position: relative; /* For positioning the pseudo-element */
   box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
